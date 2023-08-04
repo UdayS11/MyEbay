@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[waiting for 1000 ms]]>
+    </line>
+    <line>
+      <![CDATA[Launching Browser]]>
+    </line>
+    <line>
+      <![CDATA[Move to Element SignIn Button]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000 ms]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on SignIn]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000 ms]]>
+    </line>
+    <line>
+      <![CDATA[Entering user id]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000 ms]]>
+    </line>
+    <line>
+      <![CDATA[Click on Cont button]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000 ms]]>
+    </line>
+    <line>
+      <![CDATA[Entering user Password]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000 ms]]>
+    </line>
+    <line>
+      <![CDATA[click on signIn Button]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000 ms]]>
+    </line>
+    <line>
+      <![CDATA[Running Tc]]>
+    </line>
+    <line>
+      <![CDATA[Irresistible luxury from head to toe]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000 ms]]>
+    </line>
+    <line>
+      <![CDATA[Actual & Expected Matched]]>
+    </line>
+    <line>
+      <![CDATA[move to profile]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000 ms]]>
+    </line>
+    <line>
+      <![CDATA[Click on SignOut]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000 ms]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1500 ms]]>
+    </line>
+    <line>
+      <![CDATA[Closing Browser]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-08-04T05:38:20 IST" name="Surefire suite" finished-at="2023-08-04T05:38:47 IST" duration-ms="27346">
+    <groups>
+    </groups>
+    <test started-at="2023-08-04T05:38:20 IST" name="Surefire test" finished-at="2023-08-04T05:38:47 IST" duration-ms="27346">
+      <class name="eBay_Test.EbayTest">
+        <test-method is-config="true" signature="launchingBrowser()[pri:0, instance:eBay_Test.EbayTest@57250572]" started-at="2023-08-04T05:38:20 IST" name="launchingBrowser" finished-at="2023-08-04T05:38:31 IST" duration-ms="11209" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[waiting for 1000 ms]]>
+            </line>
+            <line>
+              <![CDATA[Launching Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchingBrowser -->
+        <test-method is-config="true" signature="signIntoEbay()[pri:0, instance:eBay_Test.EbayTest@57250572]" started-at="2023-08-04T05:38:31 IST" name="signIntoEbay" finished-at="2023-08-04T05:38:40 IST" duration-ms="9034" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Move to Element SignIn Button]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000 ms]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on SignIn]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000 ms]]>
+            </line>
+            <line>
+              <![CDATA[Entering user id]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000 ms]]>
+            </line>
+            <line>
+              <![CDATA[Click on Cont button]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000 ms]]>
+            </line>
+            <line>
+              <![CDATA[Entering user Password]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000 ms]]>
+            </line>
+            <line>
+              <![CDATA[click on signIn Button]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000 ms]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- signIntoEbay -->
+        <test-method signature="verifyText001()[pri:0, instance:eBay_Test.EbayTest@57250572]" started-at="2023-08-04T05:38:40 IST" name="verifyText001" finished-at="2023-08-04T05:38:43 IST" duration-ms="3288" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Running Tc]]>
+            </line>
+            <line>
+              <![CDATA[Irresistible luxury from head to toe]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000 ms]]>
+            </line>
+            <line>
+              <![CDATA[Actual & Expected Matched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyText001 -->
+        <test-method is-config="true" signature="signOutEbay()[pri:0, instance:eBay_Test.EbayTest@57250572]" started-at="2023-08-04T05:38:43 IST" name="signOutEbay" finished-at="2023-08-04T05:38:47 IST" duration-ms="3453" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[move to profile]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000 ms]]>
+            </line>
+            <line>
+              <![CDATA[Click on SignOut]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000 ms]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- signOutEbay -->
+        <test-method is-config="true" signature="closingBrowser()[pri:0, instance:eBay_Test.EbayTest@57250572]" started-at="2023-08-04T05:38:47 IST" name="closingBrowser" finished-at="2023-08-04T05:38:47 IST" duration-ms="255" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[waiting for 1500 ms]]>
+            </line>
+            <line>
+              <![CDATA[Closing Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closingBrowser -->
+      </class> <!-- eBay_Test.EbayTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
